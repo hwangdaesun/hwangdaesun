@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
 <h3 align="center">구조를 설계하고 고민하는 것이 재미있는 백엔드 개발자 황대선입니다</h3>
 
+<br>
+
 - 🔭 제 첫 프로젝트는 Springboot와 JPA를 사용하여 진행한 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다. 
 
 - 🌱 저는 현재  **Java, Spring** 을 공부하고 있습니다.
