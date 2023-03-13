@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">신뢰할 수 있는 백엔드 개발자가 되고자 하는 Sonny입니다</h3>
+<h3 align="center">구조를 설계하고 고민하는 것이 재미있는 백엔드 개발자 황대선입니다</h3>
 
-- 🔭 My first project is [Sleeper](https://github.com/JNU-econovation/sleeper)
+- 🔭 제 첫 프로젝트는 Springboot와 JPA를 사용하여 진행한 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다. 
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 저는 현재  **Java, Spring** 을 공부하고 있습니다.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hwangdaesun](https://github.com/hwangdaesun)
 
-- 📝 I regularly write articles on [https://rasony.tistory.com](https://rasony.tistory.com)
+- 📝 저는 [https://rasony.tistory.com](https://rasony.tistory.com) 에 공부한 내용을 정리하고 있습니다.
 
-- 📫 How to reach me **hds650588@gmail.com**
+- 📫 제 이메일은 **hds650588@gmail.com** 입니다.
+
+- 현재, 에코노베이션이라는 동아리에 소속되어 있으며 다양한 활동을 하고 있습니다.
 
 <p align="left">
 </p>
