@@ -3,9 +3,10 @@
 
 <br>
 
-- 🔭 제 첫 프로젝트는 Springboot와 JPA를 사용하여 진행한 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다. 
+- 🔭 제 첫 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
+- 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/JNU-econovation/Dotoring-BE) 입니다.
 
-- 🌱 저는 현재  **Java, Spring** 을 공부하고 있습니다.
+- 🌱 저는 현재  **Java, Spring, JPA, MySQL**을 공부하고 있습니다.
 
 
 - 📝 저는 [https://rasony.tistory.com](https://rasony.tistory.com) 에 공부한 내용을 정리하고 있습니다.
