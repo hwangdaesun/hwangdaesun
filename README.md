@@ -4,6 +4,7 @@
 <br>
 
 - 🔭 제 첫 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
+- 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/Team-Neoul/Neoul_Dotoring-BE) 입니다.
 
 - 🌱 저는 현재  **Java, Spring, JPA, MySQL**을 공부하고 있습니다.
 
