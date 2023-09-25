@@ -5,15 +5,16 @@
 
 - 🔭 제 첫 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
 - 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/Team-Neoul/Neoul_Dotoring-BE) 입니다.
+- 🔭 제 세번째 프로젝트는 축제 소개팅 어플 [Chookting](https://github.com/Step3-kakao-tech-campus/Team14_BE) 입니다.
 
-- 🌱 저는 현재  **Java, Spring, JPA, MySQL**을 공부하고 있습니다.
+- 🌱 저는 현재  **Java, Spring, JPA, MySQL, Redis**를 공부하고 있습니다.
 
 
 - 📝 저는 [https://rasony.tistory.com](https://rasony.tistory.com) 에 공부한 내용을 정리하고 있습니다.
 
 - 📫 제 이메일은 **hds650588@gmail.com** 입니다.
 
-- 현재, 에코노베이션이라는 동아리에 소속되어 있으며 다양한 활동을 하고 있습니다.
+- 에코노베이션이라는 동아리에 소속되어 있으며 다양한 활동을 하고 있으며 카카오 테크 캠퍼스 1기 진행중입니다.
 
 <p align="left">
 </p>
