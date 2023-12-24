@@ -1,24 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">구조를 설계하고 고민하는 것이 재미있는 백엔드 개발자 황대선입니다</h3>
+<h1 align="center">👋 안녕하세요 👋</h1>
+<h3 align="center">백엔드 공부하고 있는 황대선입니다</h3>
 
-<br>
+<div align="center" style="border-style:double">
+    
+    - 🙆🏻‍♂️ 만 24세 -
+    - 🏫 전남대학교 (Chonnam National UNIV) -
+    - ✏ 자능형모빌리티융합전공(Department of Autonomous Driving) & 소프트웨어공학과 (Software Engineering) -
+  
+  </div>
 
-- 🔭 제 첫 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
-- 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/Team-Neoul/Neoul_Dotoring-BE) 입니다.
-- 🔭 제 세번째 프로젝트는 축제 소개팅 어플 [Chookting](https://github.com/Step3-kakao-tech-campus/Team14_BE) 입니다.
-- 🔭 제 네번째 프로젝트는 몸무게 증량 어플 [Exceed](https://github.com/JNU-econovation/Gaebaljip) 입니다.
+<h3 align="center">📱 프로젝트</h3>
 
-- 🌱 저는 현재  **Java, Spring, JPA, MySQL, Redis**를 공부하고 있습니다.
+  <div align="center">
+
+      - 🔭 제 첫번째 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
+      - 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/Team-Neoul/Neoul_Dotoring-BE) 입니다.
+      - 🔭 제 세번째 프로젝트는 축제 소개팅 어플 [Chookting](https://github.com/Step3-kakao-tech-campus/Team14_BE) 입니다.
+      - 🔭 제 네번째 프로젝트는 몸무게 증량 어플 [Exceed](https://github.com/JNU-econovation/Gaebaljip) 입니다.
+
+ </div>
 
 
-- 📝 저는 [https://rasony.tistory.com](https://rasony.tistory.com) 에 공부한 내용을 정리하고 있습니다.
+<h3 align="center">🚩이력</h3>
+  
+  <div align="center">
 
-- 📫 제 이메일은 **hds650588@gmail.com** 입니다.
+      - 🥇카카오 테크 캠퍼스 1기 수료 및 대상 -
+    
+  </div>
 
-- 🥇카카오 테크 캠퍼스 1기 수료 및 대상
+<h3 align="center">🏠 블로그</h3>
 
-<p align="left">
-</p>
+  <div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+    [Big Sun의 기록](https://rasony.tistory.com)
+
+
+ </div>
+
+<h3 align="center">📖 스터디</h3>
+
+ <div align="center">
+
+    Java,SpringBoot,JPA,MySQL,Redis
+
+ </div>
+
+<h3 align="center">📧 이메일</h3>
+
+ <div align="center">
+
+      hds650588@gmail.com
+
+ </div>
