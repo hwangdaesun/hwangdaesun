@@ -1,55 +1,15 @@
-<h1 align="center">👋 안녕하세요 👋</h1>
-<h3 align="center">백엔드 공부하고 있는 황대선입니다</h3>
+## 백엔드 개발자 황대선
+안녕하세요. 백엔드 개발자 황대선입니다.
 
-<div align="center" style="border-style:double">
-    
-    - 🙆🏻‍♂️ 만 24세 -
-    - 🏫 전남대학교 (Chonnam National UNIV) -
-    - ✏ 자능형모빌리티융합전공(Department of Autonomous Driving) & 소프트웨어공학과 (Software Engineering) -
-  
-  </div>
+문제를 해결할 때, 다양한 방면에서 접근하여 해결책을 찾으려 노력합니다. 단순히 문제를 해결하는 것에 그치지 않고, 해당 방법이 왜 효과적인지와 그 방식을 선택한 이유를 깊이 고민합니다.
 
-<h3 align="center">📱 프로젝트</h3>
+## 📜 개인 블로그
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)]([https://mincanit.tistory.com/](https://rasony.tistory.com/))
 
-  <div align="center">
-
-      - 🔭 제 첫번째 프로젝트는 수면 관리 어플 [Sleeper](https://github.com/JNU-econovation/sleeper) 입니다.
-      - 🔭 제 두번째 프로젝트는 멘토링 어플 [Dotoring](https://github.com/Team-Neoul/Neoul_Dotoring-BE) 입니다.
-      - 🔭 제 세번째 프로젝트는 축제 소개팅 어플 [Chookting](https://github.com/Step3-kakao-tech-campus/Team14_BE) 입니다.
-      - 🔭 제 네번째 프로젝트는 몸무게 증량 어플 [Exceed](https://github.com/JNU-econovation/Gaebaljip) 입니다.
-
- </div>
-
-
-<h3 align="center">🚩이력</h3>
-  
-  <div align="center">
-
-      - 🥇카카오 테크 캠퍼스 1기 수료 및 대상 -
-    
-  </div>
-
-<h3 align="center">🏠 블로그</h3>
-
-  <div align="center">
-
-    [Big Sun의 기록](https://rasony.tistory.com)
-
-
- </div>
-
-<h3 align="center">📖 스터디</h3>
-
- <div align="center">
-
-    Java,SpringBoot,JPA,MySQL,Redis
-
- </div>
-
-<h3 align="center">📧 이메일</h3>
-
- <div align="center">
-
-      hds650588@gmail.com
-
- </div>
+## 🔥 History
++ [카카오 테크 캠퍼스](https://www.kakaotechcampus.com/) 웹서비스 개발 1기 백엔드 과정 (2023.04 ~ 2023.11, 수료)
+    + [축팅](https://github.com/Step3-kakao-tech-campus/Team16_BE) (2023.08 ~ 2023.11, 최우수상)
++ IT 개발 동아리 [에코노베이션](https://econovation.kr/) (2022.09 ~ 2024.09, 수료 회원)
+    + 저체중을 위한 맞춤형 앱, [EATceed](https://github.com/JNU-econovation/EATceed) (2023.10.07 ~ )
+    + 제 4회 오아시스 해커톤, 지역 멘토,멘티 어플 "도토링" **장려상 수상** (2023.08.31)
++ 전남대학교 지능형모빌리티융합전공/소프트웨어공학과 (재학중)
