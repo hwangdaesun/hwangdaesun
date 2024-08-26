@@ -8,7 +8,7 @@
 
 ## 🔥 History
 + [카카오 테크 캠퍼스](https://www.kakaotechcampus.com/) 웹서비스 개발 1기 백엔드 과정 (2023.04 ~ 2023.11, 수료)
-    + [축팅](https://github.com/Step3-kakao-tech-campus/Team16_BE) (2023.08 ~ 2023.11, 최우수상)
+    + [축팅](https://github.com/Step3-kakao-tech-campus/Team14_BE) (2023.08 ~ 2023.11, 최우수상)
 + IT 개발 동아리 [에코노베이션](https://econovation.kr/) (2022.09 ~ 2024.09, 수료 회원)
     + 저체중을 위한 맞춤형 앱, [EATceed](https://github.com/JNU-econovation/EATceed) (2023.10.07 ~ )
     + 제 4회 오아시스 해커톤, 지역 멘토,멘티 어플 "도토링" **장려상 수상** (2023.08.31)
